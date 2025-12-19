@@ -12,7 +12,7 @@ Hi! I'm **Raghav**, a passionate BCA student at Schems College. I enjoy solving 
 
 ## 📚 BCA Course Structure (Pokhara University)
 
-The BCA program spans **eight semesters**, covering technical, analytical, and managerial topics. Below is a semester-wise breakdown of the syllabus:
+The BCA program spans **eight semesters / 4 years**, covering technical, analytical, and managerial topics. Below is a semester-wise breakdown of the syllabus:
 
 ### 🧮 First Semester
 | Code   | Course                                   | Credits |

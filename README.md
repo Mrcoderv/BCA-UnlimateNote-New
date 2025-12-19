@@ -21,51 +21,51 @@ The BCA program spans **eight semesters / 4 years**, covering technical, analyti
 |--------|------------------------------------------|---------|
 | ENG 121 | English for IT Professional              | 3       |
 | MTH 131 | Mathematics I                            | 3       |
-| ELX 111 | Digital Logic System                     | 3       |
-| CMP 116 | Computer Fundamental and Application     | 3       |
-| CMP 117 | Programming Logic and Techniques         | 3       |
+| ELX 111 | [Digital Logic System](./1st%20Sem/digital%20logic)                     | 3       |
+| CMP 116 | [Computer Fundamental and Application](./1st%20Sem)     | 3       |
+| CMP 117 | [Programming Logic and Techniques](./1st%20Sem)         | 3       |
 | CMP 111 | Computer Application Workshop            | 1       |
 
 
 ### 📊 Second Semester
 | Code   | Course                                   | Credits |
 |--------|------------------------------------------|---------|
-| ENG 122 | Business & Technical Communication       | 3       |
-| MTH 132 | Mathematics II                           | 3       |
-| ACC 131 | Financial Accounting                     | 3       |
-| CMP 118 | Programming in C                         | 3       |
-| ELX 112 | Microprocessor & Computer Architecture   | 3       |
-| PRJ 151 | Project I                                | 1       |
+| ENG 122 | [Business & Technical Communication](./2nd%20Sem/btc)       | 3       |
+| MTH 132 | [Mathematics II](./2nd%20Sem)                           | 3       |
+| ACC 131 | [Financial Accounting](./2nd%20Sem/finance)                     | 3       |
+| CMP 118 | [Programming in C](./2nd%20Sem/c)                         | 3       |
+| ELX 112 | [Microprocessor & Computer Architecture](./2nd%20Sem/mp)   | 3       |
+| PRJ 151 | [Project I](./2nd%20Sem/project)                                | 1       |
 
 **2nd year**
 ### 💻 Third Semester
 | Code   | Course                                   | Credits |
 |--------|------------------------------------------|---------|
-| CMP 215 | Object-Oriented Programming in Java      | 3       |
-| CMP 227 | Data Structures & Algorithms             | 3       |
-| CMP 221 | System Analysis & Project Management     | 3       |
-| CMP 380 | Web Technologies I                       | 3       |
-| CMP 230 | Operating System                         | 3       |
+| CMP 215 | [Object-Oriented Programming in Java](./3rd%20sem/JAVA)      | 3       |
+| CMP 227 | [Data Structures & Algorithms](./3rd%20sem/DSA)             | 3       |
+| CMP 221 | [System Analysis & Project Management](./3rd%20sem/SYSTEM)     | 3       |
+| CMP 380 | [Web Technologies I](./3rd%20sem/WEB_TECH%20I)                       | 3       |
+| CMP 230 | [Operating System](./3rd%20sem/OS)                         | 3       |
 
 
 ### 🔍 Fourth Semester
 | Code   | Course                                   | Credits |
 |--------|------------------------------------------|---------|
-| CMP 323 | Software Engineering                     | 3       |
-| CMP 226 | Database Management System               | 3       |
-| CMP 242 | Computer Graphics & Multimedia Tech      | 3       |
-| MTH 320 | Probability and Statistics               | 3       |
-| CMP 402 | Web Technologies II                      | 3       |
-| PRJ 251 | Project II                               | 2       |
+| CMP 323 | [Software Engineering](./4th%20Sem/SOFTWARE%20Eng)                     | 3       |
+| CMP 226 | [Database Management System](./4th%20Sem/Dbms)               | 3       |
+| CMP 242 | [Computer Graphics & Multimedia Tech](./4th%20Sem/COMPUTER%20GRAPHICS)      | 3       |
+| MTH 320 | [Probability and Statistics](./4th%20Sem/PROBALITY%20AND%20STASTICS)               | 3       |
+| CMP 402 | [Web Technologies II](./4th%20Sem/Web%20tech2)                      | 3       |
+| PRJ 251 | [Project II](./4th%20Sem/Project)                               | 2       |
 
-**3rd years**
+**3rd year**
 ### 🌐 Fifth Semester
 | Code   | Course                                   | Credits |
 |--------|------------------------------------------|---------|
-| MTH 230 | Numerical Methods                        | 3       |
-| CMP 317 | DotNet Technology                        | 3       |
-| CMP 336 | Data Communication & Computer Network    | 3       |
-| ELE 322 | Research Methodology                     | 3       |
+| MTH 230 | [Numerical Methods](./5th%20sem/math)                        | 3       |
+| CMP 317 | [DotNet Technology](./5th%20sem/Dotnet)                        | 3       |
+| CMP 336 | [Data Communication & Computer Network](./5th%20sem/ComputerNetwork)    | 3       |
+| ELE 322 | [Research Methodology](./5th%20sem/Research)                     | 3       |
 | MTH 330 | Mathematical Foundation of CS            | 3       |
 
 

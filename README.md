@@ -103,7 +103,25 @@ The BCA program spans **eight semesters**, covering technical, analytical, and m
 
 Are you a fellow student or alumni of Schems College? Feel free to fork, star, or submit pull requests to improve this resource. Every note shared helps someone learn better.
 
----
+---git status --ignored
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   5th sem/Research/QA/unit 2_LV MODEL ANSWER 1.pdf
+
+Ignored files:
+  (use "git add -f <file>..." to include in what will be committed)
+	.gitignore
+
+mrrv@RvMachine:/media/mrrv/data/BCA-UnlimateNote-New$ git add -f "5th sem"
+mrrv@RvMachine:/media/mrrv/data/BCA-UnlimateNote-New$ git commit -m "Add/Update all files in 5th sem, overriding .gitignore"
+[main a980e2d] Add/Update all files in 5th sem, overriding .gitignore
+ 1 file changed, 3 insertions(+)
+ create mode 100644 5th sem/Research/QA/unit 2_LV MODEL ANSWER 1.pdf
+mrrv@RvMachine:/media/mrrv/data/BCA-UnlimateNote-New$ git push origin main
+Uploading LFS objects: 100% (1/1), 177 KB | 0 B/s, done.                        
 
 ## 📌 License
 

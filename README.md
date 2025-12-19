@@ -47,7 +47,7 @@ The BCA program spans **eight semesters / 4 years**, covering technical, analyti
 | CMP 380 | Web Technologies I                       | 3       |
 | CMP 230 | Operating System                         | 3       |
 
-**3rd years**
+
 ### 🔍 Fourth Semester
 | Code   | Course                                   | Credits |
 |--------|------------------------------------------|---------|
@@ -58,7 +58,7 @@ The BCA program spans **eight semesters / 4 years**, covering technical, analyti
 | CMP 402 | Web Technologies II                      | 3       |
 | PRJ 251 | Project II                               | 2       |
 
-
+**3rd years**
 ### 🌐 Fifth Semester
 | Code   | Course                                   | Credits |
 |--------|------------------------------------------|---------|

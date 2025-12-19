@@ -13,7 +13,7 @@ Hi! I'm **Raghav**, a passionate BCA student at Schems College. I enjoy solving 
 ## 📚 BCA Course Structure (Pokhara University)
 
 The BCA program spans **eight semesters / 4 years**, covering technical, analytical, and managerial topics. Below is a semester-wise breakdown of the syllabus:
-
+**1st year**
 ### 🧮 First Semester
 | Code   | Course                                   | Credits |
 |--------|------------------------------------------|---------|
@@ -35,7 +35,7 @@ The BCA program spans **eight semesters / 4 years**, covering technical, analyti
 | ELX 112 | Microprocessor & Computer Architecture   | 3       |
 | PRJ 151 | Project I                                | 1       |
 
-
+**2nd year**
 ### 💻 Third Semester
 | Code   | Course                                   | Credits |
 |--------|------------------------------------------|---------|
@@ -45,7 +45,7 @@ The BCA program spans **eight semesters / 4 years**, covering technical, analyti
 | CMP 380 | Web Technologies I                       | 3       |
 | CMP 230 | Operating System                         | 3       |
 
-
+**3rd years**
 ### 🔍 Fourth Semester
 | Code   | Course                                   | Credits |
 |--------|------------------------------------------|---------|
@@ -77,7 +77,7 @@ The BCA program spans **eight semesters / 4 years**, covering technical, analyti
 | N/A     | Elective I                               | 2       |
 | PRJ 351 | Project III                              | 3       |
 
-
+**4th years**
 ### 📱 Seventh Semester
 | Code   | Course                                   | Credits |
 |--------|------------------------------------------|---------|

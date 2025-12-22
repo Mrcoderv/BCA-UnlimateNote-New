@@ -62,11 +62,11 @@ The BCA program spans **eight semesters / 4 years**, covering technical, analyti
 ### 🌐 Fifth Semester
 | Code   | Course                                   | Credits |
 |--------|------------------------------------------|---------|
-| MTH 230 | [Numerical Methods](./5th%20sem/math)                        | 3       |
+| MTH 230 | [Numerical Methods](./5th%20sem/Numerical)                        | 3       |
 | CMP 317 | [DotNet Technology](./5th%20sem/Dotnet)                        | 3       |
 | CMP 336 | [Data Communication & Computer Network](./5th%20sem/ComputerNetwork)    | 3       |
 | ELE 322 | [Research Methodology](./5th%20sem/Research)                     | 3       |
-| MTH 330 | Mathematical Foundation of CS            | 3       |
+| MTH 330 | [Mathematical Foundation of CS](./5th%20sem/math)            | 3       |
 
 
 ### 📈 Sixth Semester

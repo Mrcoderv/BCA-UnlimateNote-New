@@ -2,11 +2,13 @@
 
 Welcome to my curated notes and academic resources for the **Bachelor of Computer Applications (BCA)** program at the **School of Environmental Science and Management (Schems College)**, under **Pokhara University**.
 
+This repository contains **semester-wise notes**, **past questions**, **syllabus**, **projects**, and more — designed to help BCA students excel academically.
+
 ---
 
 ## 🎓 About Me
 
-Hi! I'm **Raghav**, a passionate BCA student at Schems College. I enjoy solving technical problems, visualizing data, and exploring how code can drive change—especially in areas like climate tech, education, and digital transformation.
+Hi! I'm **Raghav**, a passionate BCA student at Schems College. I enjoy solving technical problems, visualizing data, and exploring how code can drive change—especially in areas like climate tech and education.
 
 ---
 
@@ -81,7 +83,7 @@ The BCA program spans **eight semesters / 4 years**, covering technical, analyti
 | CMP 314 | Management Information System | 3 |
 | CMP 350 | [Simulation & Modeling](./6th%20Sem/Simulation%20%26%20Modeling) | 3 |
 | MGT 322 | Organization Management | 3 |
-| CMP 360 | Data Warehouse & Data Mining (Elective I) | 2 |
+| CMP 360 | [Data Warehouse & Data Mining (Elective I)](./6th%20Sem/Data%20mining%20and%20warehouse) | 2 |
 | PRJ 351 | Project III | 3 |
 
 **4th years**

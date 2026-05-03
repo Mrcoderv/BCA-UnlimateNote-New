@@ -44,7 +44,7 @@ The BCA program spans **eight semesters / 4 years**, covering technical, analyti
 
 ### 💻 Third Semester
 
-| Code   | Course ([Semester End Examinations Schedule.pdf](./3rd%20sem)) | Credits |
+| Code   | Course ([syllabus ](./3rd%20sem)) | Credits |
 |--------|--------|---------|
 | CMP 215 | [Object-Oriented Programming in Java](./3rd%20sem/JAVA) | 3 |
 | CMP 227 | [Data Structures & Algorithms](./3rd%20sem/DSA) | 3 |

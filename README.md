@@ -67,7 +67,7 @@ The BCA program spans **eight semesters / 4 years**, covering technical, analyti
 
 ### 🌐 Fifth Semester
 
-| Code   | Course | Credits |
+| Code   | Course ([BCA_Sem_VSyllabus.pdf](./5th%20sem/BCA_Sem_VSyllabus.pdf)) | Credits |
 |--------|--------|---------|
 | MTH 230 | [Numerical Methods](./5th%20sem/Numerical) | 3 |
 | CMP 317 | [DotNet Technology](./5th%20sem/Dotnet) | 3 |

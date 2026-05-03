@@ -54,7 +54,7 @@ The BCA program spans **eight semesters / 4 years**, covering technical, analyti
 
 ### 🔍 Fourth Semester
 
-| Code   | Course | Credits |
+| Code   | Course ([BCA 4th semester syllabus.docx](./4th%20Sem/BCA%204th%20semester%20syllabus.docx)) | Credits |
 |--------|--------|---------|
 | CMP 323 | [Software Engineering](./4th%20Sem/SOFTWARE%20Eng) | 3 |
 | CMP 226 | [Database Management System](./4th%20Sem/Dbms) | 3 |

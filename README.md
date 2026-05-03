@@ -77,7 +77,7 @@ The BCA program spans **eight semesters / 4 years**, covering technical, analyti
 
 ### 📈 Sixth Semester
 
-| Code   | Course (Syllabus) | Credits |
+| Code   | Course ([Six semester syllabus.pdf](./6th%20Sem/Six%20%20semester%20syllabus.pdf)) | Credits |
 |--------|-------------------|---------|
 | CMP 316 | Data Science & Analytics | 3 |
 | CMP 314 | Management Information System | 3 |

@@ -31,7 +31,7 @@ The BCA program spans **eight semesters / 4 years**, covering technical, analyti
 
 ### 📊 Second Semester
 
-| Code   | Course | Credits |
+| Code   | Course ([syllabus.pdf](./2nd%20Sem/syllabus.pdf)) | Credits |
 |--------|--------|---------|
 | ENG 122 | [Business & Technical Communication](./2nd%20Sem/btc) | 3 |
 | MTH 132 | [Mathematics II](./2nd%20Sem) | 3 |

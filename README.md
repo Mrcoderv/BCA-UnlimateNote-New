@@ -68,16 +68,17 @@ The BCA program spans **eight semesters / 4 years**, covering technical, analyti
 | ELE 322 | [Research Methodology](./5th%20sem/Research)                     | 3       |
 | MTH 330 | [Mathematical Foundation of CS](./5th%20sem/math)            | 3       |
 
-
 ### 📈 Sixth Semester
-| Code   | Course                                   | Credits |
+| Code   | Course [Syllabus](./6th%20sem/Six%semester%syllabus.pdf)                               | Credits |
 |--------|------------------------------------------|---------|
-| CMP 316 | Data Science & Analytics                 | 3       |
-| CMP 314 | Management Information System            | 3       |
-| CMP 350 | Simulation & Modeling                    | 3       |
-| MGT 322 | Organization Management                  | 3       |
-| N/A     | Elective I                               | 2       |
-| PRJ 351 | Project III                              | 3       |
+| CMP 316 | [Data Science & Analytics](./6th%20sem/DataScienceAnalytics) | 3 |
+| CMP 314 | [Management Information System](./6th%20sem/MIS) | 3 |
+| CMP 350 | [Simulation & Modeling](./6th%20sem/Simulation%&%Modeling) | 3 |
+| MGT 322 | [Organization Management](./6th%20sem/OrganizationManagement) | 3 |
+| CMP 360 | [Data Warehouse & Data Mining (Elective I)](./6th%20sem/Data%mining%and%warehouse) | 2 |
+| PRJ 351 | [Project III](./6th%20sem/Project3) | 3 |
+|
+
 
 **4th years**
 ### 📱 Seventh Semester

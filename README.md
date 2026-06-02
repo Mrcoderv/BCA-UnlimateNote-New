@@ -8,7 +8,7 @@ This repository contains **semester-wise notes**, **past questions**, **syllabus
 
 ## 🎓 About Me
 
-Hi! I'm **Raghav**, a passionate BCA student at Schems College. I enjoy solving technical problems, visualizing data, and exploring how code can drive change—especially in areas like climate tech and education.
+Hi! I'm **Raghav**, a passionate BCA student at Schems College. I enjoy solving technical problems, visualizing data, and exploring how code can drive change—especially in areas like climate tech and sustainable development.
 
 ---
 
@@ -79,12 +79,12 @@ The BCA program spans **eight semesters / 4 years**, covering technical, analyti
 
 | Code   | Course ([Six semester syllabus.pdf](./6th%20Sem/Six%20%20semester%20syllabus.pdf)) | Credits |
 |--------|-------------------|---------|
-| CMP 316 | Data Science & Analytics | 3 |
+| CMP 316 | [Data Science & Analytics](./6th%20Sem/Data%20Science%20%26%20Analytics) | 3 |
 | CMP 314 | [Management Information System](./6th%20Sem/Management%20Information%20System) | 3 |
 | CMP 350 | [Simulation & Modeling](./6th%20Sem/Simulation%20%26%20Modeling) | 3 |
 | MGT 322 | [Organization Management](./6th%20Sem/Organization%20Management) | 3 |
 | CMP 360 | [Data Warehouse & Data Mining (Elective I)](./6th%20Sem/Data%20Mining%20and%20Warehouse) | 2 |
-| PRJ 351 | Project III | 3 |
+| PRJ 351 | [Project III](./6th%20Sem/Project) | 3 |
 **4th years**
 
 ### 📱 Seventh Semester

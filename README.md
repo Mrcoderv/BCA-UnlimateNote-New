@@ -80,12 +80,11 @@ The BCA program spans **eight semesters / 4 years**, covering technical, analyti
 | Code   | Course ([Six semester syllabus.pdf](./6th%20Sem/Six%20%20semester%20syllabus.pdf)) | Credits |
 |--------|-------------------|---------|
 | CMP 316 | Data Science & Analytics | 3 |
-| CMP 314 | Management Information System | 3 |
+| CMP 314 | [Management Information System](./6th%20Sem/Management%20Information%20System) | 3 |
 | CMP 350 | [Simulation & Modeling](./6th%20Sem/Simulation%20%26%20Modeling) | 3 |
-| MGT 322 | Organization Management | 3 |
-| CMP 360 | [Data Warehouse & Data Mining (Elective I)](./6th%20Sem/Data%20mining%20and%20warehouse) | 2 |
+| MGT 322 | [Organization Management](./6th%20Sem/Organization%20Management) | 3 |
+| CMP 360 | [Data Warehouse & Data Mining (Elective I)](./6th%20Sem/Data%20Mining%20and%20Warehouse) | 2 |
 | PRJ 351 | Project III | 3 |
-
 **4th years**
 
 ### 📱 Seventh Semester

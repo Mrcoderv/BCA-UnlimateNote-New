@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="2000" viewBox="0 0 2000 2000">
+<style>
+text{font-family:Arial,sans-serif}
+.title{font-size:40px;font-weight:bold}
+.label{font-size:22px}
+.small{font-size:18px}
+.bold{font-weight:bold}
+</style>
+
+<text x="1000" y="70" text-anchor="middle" class="title">DFD Level 1 - Stock Portfolio Management System</text>
+
+<rect x="850" y="120" width="300" height="80" fill="none" stroke="black" stroke-width="3"/>
+<text x="1000" y="170" text-anchor="middle" class="label bold">USER</text>
+
+<!-- Processes -->
+<g>
+<circle cx="180" cy="550" r="110" fill="none" stroke="black" stroke-width="3"/>
+<text x="180" y="535" text-anchor="middle" class="label bold">1.0</text>
+<text x="180" y="570" text-anchor="middle" class="label">User</text>
+<text x="180" y="600" text-anchor="middle" class="label">Authentication</text>
+
+<circle cx="600" cy="550" r="110" fill="none" stroke="black" stroke-width="3"/>
+<text x="600" y="535" text-anchor="middle" class="label bold">2.0</text>
+<text x="600" y="570" text-anchor="middle" class="label">Market Data</text>
+<text x="600" y="600" text-anchor="middle" class="label">Management</text>
+
+<circle cx="1000" cy="550" r="110" fill="none" stroke="black" stroke-width="3"/>
+<text x="1000" y="535" text-anchor="middle" class="label bold">3.0</text>
+<text x="1000" y="570" text-anchor="middle" class="label">Portfolio</text>
+<text x="1000" y="600" text-anchor="middle" class="label">Management</text>
+
+<circle cx="1400" cy="550" r="110" fill="none" stroke="black" stroke-width="3"/>
+<text x="1400" y="535" text-anchor="middle" class="label bold">4.0</text>
+<text x="1400" y="570" text-anchor="middle" class="label">Watchlist</text>
+<text x="1400" y="600" text-anchor="middle" class="label">Management</text>
+
+<circle cx="1800" cy="550" r="110" fill="none" stroke="black" stroke-width="3"/>
+<text x="1800" y="535" text-anchor="middle" class="label bold">5.0</text>
+<text x="1800" y="570" text-anchor="middle" class="label">Profile &amp;</text>
+<text x="1800" y="600" text-anchor="middle" class="label">Settings</text>
+</g>
+
+<!-- Datastores -->
+<rect x="60" y="1150" width="330" height="100" fill="none" stroke="black" stroke-width="3"/>
+<text x="90" y="1205" class="label bold">D1 User Database</text>
+
+<rect x="480" y="1150" width="250" height="100" fill="none" stroke="black" stroke-width="3" stroke-dasharray="10,10"/>
+<text x="510" y="1205" class="label bold">D4 Market Cache</text>
+
+<rect x="850" y="980" width="350" height="100" fill="none" stroke="black" stroke-width="3"/>
+<text x="880" y="1035" class="label bold">D2 Portfolio Database</text>
+
+<rect x="1280" y="980" width="320" height="100" fill="none" stroke="black" stroke-width="3"/>
+<text x="1310" y="1035" class="label bold">D3 Watchlist Database</text>
+
+<rect x="1680" y="980" width="260" height="100" fill="none" stroke="black" stroke-width="3"/>
+<text x="1710" y="1035" class="label bold">D5 Settings Database</text>
+
+<!-- External -->
+<rect x="20" y="850" width="180" height="90" fill="none" stroke="black" stroke-width="3"/>
+<text x="110" y="905" text-anchor="middle" class="label bold">Google OAuth 2.0</text>
+
+<rect x="230" y="850" width="150" height="90" fill="none" stroke="black" stroke-width="3"/>
+<text x="305" y="905" text-anchor="middle" class="label bold">GMAIL</text>
+
+<rect x="500" y="850" width="220" height="90" fill="none" stroke="black" stroke-width="3"/>
+<text x="610" y="895" text-anchor="middle" class="label bold">NEPSE API</text>
+<text x="610" y="925" text-anchor="middle" class="small">(External System)</text>
+
+<!-- Lines -->
+<line x1="1000" y1="200" x2="1000" y2="300" stroke="black" stroke-width="3"/>
+<line x1="180" y1="300" x2="1800" y2="300" stroke="black" stroke-width="3"/>
+<line x1="180" y1="300" x2="180" y2="440" stroke="black" stroke-width="3"/>
+<line x1="600" y1="300" x2="600" y2="440" stroke="black" stroke-width="3"/>
+<line x1="1000" y1="300" x2="1000" y2="440" stroke="black" stroke-width="3"/>
+<line x1="1400" y1="300" x2="1400" y2="440" stroke="black" stroke-width="3"/>
+<line x1="1800" y1="300" x2="1800" y2="440" stroke="black" stroke-width="3"/>
+
+<line x1="180" y1="660" x2="180" y2="850" stroke="black" stroke-width="3"/>
+<line x1="180" y1="940" x2="180" y2="1150" stroke="black" stroke-width="3"/>
+
+<line x1="600" y1="660" x2="600" y2="850" stroke="black" stroke-width="3"/>
+<line x1="600" y1="940" x2="600" y2="1150" stroke="black" stroke-width="3" stroke-dasharray="10,10"/>
+
+<line x1="1000" y1="660" x2="1000" y2="980" stroke="black" stroke-width="3"/>
+<line x1="1400" y1="660" x2="1400" y2="980" stroke="black" stroke-width="3"/>
+<line x1="1800" y1="660" x2="1800" y2="980" stroke="black" stroke-width="3"/>
+</svg>
